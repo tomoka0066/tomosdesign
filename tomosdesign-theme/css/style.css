@@ -1966,6 +1966,7 @@ contactページ-----
 .blogpage-item {
   width: 100%;
   height: 376px;
+  padding-bottom: 1px;
  margin-bottom:4rem;
   /* flex-box, center image in cell */
 }
