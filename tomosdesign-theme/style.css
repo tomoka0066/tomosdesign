@@ -90,14 +90,14 @@ utility------------
 }
 
 .effect-fade {
-　opacity : 0;
-　transform : translate(0, 45px);
-　transition : all 300ms;
+opacity : 0;
+transform : translate(0, 45px);
+transition : all 300ms;
 }
 
 .effect-fade.effect-scroll {
-　opacity : 1;
-　transform : translate(0, 0);
+opacity : 1;
+transform : translate(0, 0);
 }
 
 /*---------------
@@ -1877,7 +1877,7 @@ contactページ-----
 	border-radius:15px;
 	margin: 2rem auto 0 0;
 	text-align:center;
-	font-seight:bold;
+	font-weight:bold;
 	line-height:4rem;
 }
 .contact input.wpcf7-submit{
@@ -2021,6 +2021,7 @@ article.single-post.single-news{
 
 .blogpage-item {
   width: 100%;
+  padding-bottom: 1px;
  /* margin-bottom:4rem; */
   /* flex-box, center image in cell */
 }
