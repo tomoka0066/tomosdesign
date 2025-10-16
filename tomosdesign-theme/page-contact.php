@@ -8,10 +8,10 @@
 
 		<div class="section-body">
 			<div class="contact_message">
-				<p>お仕事や取材のご相談や、サイトの感想などぜひお気軽にご連絡ください。</p>
-				<p class="supplementary-info">メールの場合は<span class="email">tomoka.ishikawa@gmail.com</span>にご連絡ください。</p>
+				<p>お仕事や取材のご相談やサイトの感想など、以下までご連絡ください。</p>
+				<p class="supplementary-info">Email: <span class="email">tomoka.ishikawa★gmail.com</span>（★を@にして送信してください。）</p>
 			</div>
-			<div class="formrun">
+			<!-- <div class="formrun">
 				<?php echo do_shortcode( '[contact-form-7 id="85" title="コンタクトフォーム 1"]' ); ?>
 				 <p class="privacypolicy-text js-modal-open" data-target="modal-privacypolicy">プライバシーポリシー</p>
 				  
@@ -82,10 +82,10 @@
 								<p class="close-in-modal">
 									<a class="js-modal-close" href="">閉じる</a>
 								</p>
-							</div><!--privacy-policy-->
-						</div><!--modal__content-->
-					</div><!--	class=modal-->	
-				</div>
+							</div>
+						</div>
+					</div>
+			</div> -->
 		</div>
 
 	</section>
