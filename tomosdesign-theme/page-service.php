@@ -21,17 +21,17 @@
 			</div>
 			<div class="accordion-inner">
 				<ul>
-					<li>
+					<!-- <li> -->
 					<!--WEBサイト作成-->
-						<div class="accordion-one" id="website">
-							<div class="accordion-header">
+						<!-- <div class="accordion-one" id="website"> -->
+							<!-- <div class="accordion-header">
 								<h3>WEBサイト作成</h3>
 								<div class="i-box">
 									<span></span>
 									<span></span>
 								</div>
-							</div>
-							<div class="accordion-inner">
+							</div> -->
+							<!-- <div class="accordion-inner"> -->
 								<div class="section-body">
 									<p class="section-title laptop">WEBサイト作成</p>
 									<div> <!--WEBサイト作成のコンテンツ部分-->
@@ -125,12 +125,14 @@
 										</div>
 									</div><!--WEBサイト作成のコンテンツ部分-->
 								</div><!--　accordion-innerのsection-body-->
-							</div><!--　WEBサイト作成のaccordion-header押すと開く部分 accordion-inner-->
-						</div><!--/WEBサイト作成のaccordion-one-->
-					</li>
-					<li>
+							<!-- </div> -->
+							<!--　WEBサイト作成のaccordion-header押すと開く部分 accordion-inner-->
+						<!-- </div> -->
+						<!--/WEBサイト作成のaccordion-one-->
+					<!-- </li> -->
+					<!-- <li> -->
 					<!--つながるサポート-->
-						<div class="accordion-one" id="tunagaru">
+						<!-- <div class="accordion-one" id="tunagaru">
 							<div class="accordion-header">
 								<h3>つながるサポート</h3>
 								<div class="i-box">
@@ -164,16 +166,16 @@
 									</div>
 								</div>
 							</div>
-						</div>
+						</div> -->
 					<!--/つながるサポート-->
-					</li>
+					<!-- </li> -->
 				</ul>
 			</div>
 		</div>
 		<!--		/WEB-->
 		
 		<!--		翻訳-->		
-		<div class="accordion-one" id="translation">
+		<!-- <div class="accordion-one" id="translation">
 			<div class="accordion-header">
 				<h2 class="section-title translation">翻訳</h2>
 					<div class="i-box">
@@ -257,11 +259,11 @@
 						</div>					
 				</div>
 			</div>
-		</div>
+		</div> -->
 		<!--		/翻訳-->	
 		
 		<!--		同業の方へ-->			
-		<div class="accordion-one">
+		<!-- <div class="accordion-one">
 			<div class="accordion-header">
 				<h2 class="section-title accordion tree">同業の方へ</h2>
 				<div class="i-box">
@@ -276,7 +278,7 @@
 					<p>翻訳だけ依頼したい、など、私がお手伝いできそうなことがありましたらお気軽にお問い合わせください。</p>
 				</div>
 			</div>
-		</div>
+		</div> -->
 		<!--		同業の方へ-->
 	</div>
 <!--		/アコーディオン-->
