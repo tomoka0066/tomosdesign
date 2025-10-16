@@ -8,8 +8,7 @@
 
 		<div class="section-body">
 			<div class="contact_message">
-				<p>お仕事や取材のご相談やサイトの感想など、以下までご連絡ください。</p>
-				<p class="supplementary-info">Email: <span class="email">tomoka.ishikawa★gmail.com</span>（★を@にして送信してください。）</p>
+				<p>お仕事や取材のご相談やサイトの感想など、以下までご連絡ください。<br>Email: <span class="email">tomoka.ishikawa★gmail.com</span>（★を@にして送信してください。）</p>
 			</div>
 			<!-- <div class="formrun">
 				<?php echo do_shortcode( '[contact-form-7 id="85" title="コンタクトフォーム 1"]' ); ?>
