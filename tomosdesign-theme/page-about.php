@@ -21,7 +21,7 @@
 			<dd>山梨県北杜市</dd>
 
 			<dt>Mail</dt>
-			<dd>contact@tomokaishikawa.com</dd>
+			<dd>hello@tomokaishikawa.com</dd>
 		</dl>
 	</div>
 		
