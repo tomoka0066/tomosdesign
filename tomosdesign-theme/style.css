@@ -1497,7 +1497,7 @@ Serviceページ-----
 /*-----プラスマイナスボタン*/
 
 .accordion-inner{
-	display: none;
+	display: block;
 }
 
 /*アコーディオンの2階層目のボックスの記述*/
