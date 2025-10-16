@@ -12,14 +12,14 @@
 <!--		アコーディオン-->
 	<!--	WEB-->
 		<div class="accordion-one">
-			<div class="accordion-header">
+			<!-- <div class="accordion-header">
 				<h2 class="section-title laptop">WEB</h2>
 				<div class="i-box">
 					<span></span>
 					<span></span>
 				</div>
-			</div>
-			<div class="accordion-inner">
+			</div> -->
+			<div>
 				<ul>
 					<!-- <li> -->
 					<!--WEBサイト作成-->
