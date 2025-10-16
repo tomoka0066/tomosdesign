@@ -1517,6 +1517,10 @@ Serviceページ-----
 display: block;
 }
 
+.accordion-one{
+	display: block;
+}
+
 
 /*アコーディオンの中身の記述*/
 .accordion-inner .section-body{
