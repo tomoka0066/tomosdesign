@@ -19,7 +19,7 @@
 					<span></span>
 				</div>
 			</div> -->
-			<div>
+			<div class="accordion-inner">
 				<ul>
 					<!-- <li> -->
 					<!--WEBサイト作成-->
