@@ -2022,6 +2022,7 @@ article.single-post.single-news{
 .blogpage-item {
   width: 100%;
   padding-bottom: 1px;
+  padding-top: 5px;
  /* margin-bottom:4rem; */
   /* flex-box, center image in cell */
 }
